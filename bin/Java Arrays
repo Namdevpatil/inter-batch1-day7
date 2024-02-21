@@ -1,0 +1,32 @@
+Array: collection of similar data type values
+
+int customerAge = 20;//
+
+System.out.println(customerAge);//20
+
+-----------------------------------------------------------------
+
+Arrays will works based on index concept, the array index starts from zero(0) and length-1
+
+int customersAge[] = {20, 35, 28, 45, 39};
+
+System.out.println(customersAge[0]);
+
+----------------------------------------------------------------
+
+Problems of an arrays:
+
+1. fixed size.
+2. it will not support dissimilar data type values.
+3. it do not have predefined API(classes and interfaces)
+
+To Solve the above arrays problem,
+
+we use collection framework API.
+
+Collections are,
+
+1. not fixed size.
+2. it will support dissimilar data type values
+3. it do have predefined API(classes and interfaces)
+
